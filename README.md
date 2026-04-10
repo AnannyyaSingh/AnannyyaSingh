@@ -37,3 +37,21 @@ HTML | CSS | React | Flask | Git | GitHub | APIs
 - Includes Explainable AI (SHAP/LIME)  
 
 ---
+## 📊 GitHub Stats
+![Anannya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnannyyaSingh&show_icons=true)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=AnannyyaSingh)
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/www.linkedin.com/in/anannya-singh-5aa6b1337
+- 💻 GitHub: https://github.com/AnannyyaSingh
+- 📧 Email: anannyyasingh19@gmail.com
+
+---
+
+⭐️ *"Building AI-powered solutions that create real impact."*
