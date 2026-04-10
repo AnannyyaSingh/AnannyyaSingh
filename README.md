@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anannya</h1>
+<h3 align="center">Aspiring AI/ML Engineer | Data Analyst | Software Developer</h3>
 
-<!--
-**AnannyyaSingh/AnannyyaSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 B.Tech CSE Student (AKTU)
+- 💡 Interested in **AI/ML, Data Science & Software Development**
+- 🌙 Night owl learner & consistent builder
+- 📈 Preparing for **2026 placements**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+Python | C++ | JavaScript  
+
+**AI/ML:**  
+Machine Learning | Deep Learning | NLP | Neural Networks  
+
+**Data:**  
+SQL | Data Analysis | Pandas | NumPy  
+
+**Web & Tools:**  
+HTML | CSS | React | Flask | Git | GitHub | APIs  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI Course Generator
+- Generates personalized learning paths using AI  
+- Tech: Python, Generative AI, APIs  
+
+### 🔹Interpretable Machine Learning for Breast Cancer Classification
+- Predicts cancer risk using ML & Neural Networks  
+- Includes Explainable AI (SHAP/LIME)  
+
+---
